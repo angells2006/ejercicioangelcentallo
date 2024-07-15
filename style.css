@@ -1,0 +1,38 @@
+*{
+    
+
+}
+h1{
+    font-size: 60px;
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(226, 242, 251);
+    height: 70px;
+    
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul{
+    display: flex;
+    justify-content:space-around;
+     align-items: center; 
+    margin: 50px;
+    color: white;
+    background-color: black;
+    height: 70px;
+    font-size: 20px;
+    list-style: none;
+    
+
+   
+
+}
+.header{
+  background-color: black;
+
+}
